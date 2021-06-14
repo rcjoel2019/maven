@@ -11,7 +11,7 @@
 	<packaging>war</packaging>
 	<name>testeapi</name>
 	<!-- FIXME change it to the project's website -->
-	<url>https://git.heroku.com/cartoes-example.git</url>
+	<url>http://www.example.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

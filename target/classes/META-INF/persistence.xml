@@ -10,9 +10,9 @@
             <!-- Conexão com o banco de dados -->
 			<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL5InnoDBDialect" />
 			<property name="hibernate.connection.driver_class" value="com.mysql.jdbc.Driver" />
-			<property name="hibernate.connection.url" value="jdbc:mysql://sql10.freemysqlhosting.net/sql10418585" />
-			<property name="hibernate.connection.user" value="sql10418585" />
-			<property name="hibernate.connection.password" value="vnF7tjutSc" />
+			<property name="hibernate.connection.url" value="jdbc:mysql://localhost/testeonlinecovid" />
+			<property name="hibernate.connection.user" value="root" />
+			<property name="hibernate.connection.password" value="" />
 <!--             <property name="hibernate.hbm2ddl.auto" value="create" /> -->
             <property name="hibernate.hbm2ddl.auto" value="update"/>
  
